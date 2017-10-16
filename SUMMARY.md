@@ -1,4 +1,6 @@
 * [Introduction](README.md)
 * [Getting Started with PixiJS](Getting Started with PixiJS/overview.md)
     * [intruction](Getting Started with PixiJS/01 intruction.md)
-    * [Creating the renderer and stage](Getting Started with PixiJS/02 Creating the renderer and stage.md)
+    * [Creating the renderer and stage](Getting Started with PixiJS/06 Creating the renderer and stage.md)
+    * [Pixi sprites](Getting Started with PixiJS/07 Pixi sprites)
+    * [Loading images into the texture cache](Getting Started with PixiJS/08 Loading images into the texture cache)
