@@ -4,3 +4,4 @@
     * [创建选择器和舞台](Getting Started with PixiJS/Creating-the-renderer-and-stage.md)
     * [Pixi sprites](Getting Started with PixiJS/Pixi-sprites.md)
     * [加载图片到纹理缓存](Getting Started with PixiJS/Loading-images-into-the-texture-cache.md)
+    * [呈现sprites](Getting Started with PixiJS/display-sprites.md)
