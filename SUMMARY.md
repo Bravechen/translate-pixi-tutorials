@@ -5,3 +5,6 @@
     * [Pixi sprites](Getting Started with PixiJS/Pixi-sprites.md)
     * [加载图片到纹理缓存](Getting Started with PixiJS/Loading-images-into-the-texture-cache.md)
     * [呈现sprites](Getting Started with PixiJS/display-sprites.md)
+    * [移动sprites](Getting Started with PixiJS/positioning-sprites.md)
+    * [大小和缩放](Getting Started with PixiJS/size-and-scale.md)
+    * [旋转](Getting Started with PixiJS/rotation.md)
