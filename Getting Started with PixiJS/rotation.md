@@ -1,6 +1,6 @@
 # 旋转
 
-我们也可以使用`sprite`的`rotation`属性，来让它旋转。仅仅需要需要一个弧度值。
+我们也可以使用`sprite`的`rotation`属性，来让它旋转。仅仅需要一个弧度值。
 
 ```js
 cat.rotation = 0.5;
