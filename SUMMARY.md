@@ -8,3 +8,4 @@
     * [移动sprites](Getting Started with PixiJS/positioning-sprites.md)
     * [大小和缩放](Getting Started with PixiJS/size-and-scale.md)
     * [旋转](Getting Started with PixiJS/rotation.md)
+    * [从瓦片集中的图片创建sprite](Getting Started with PixiJS/sprite-from-tileset.md)
