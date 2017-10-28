@@ -25,7 +25,7 @@ renderer.render(stage);
 
 以上几乎是使用Pixi功能最简单的代码。我们在html文档中创建了一个256x256大小的canvas，并整体填充为黑色。下面就是运行后，你在浏览器中看到的效果：
 
-![](https://github.com/kittykatattack/learningPixi/blob/master/examples/images/screenshots/01.png?raw=true)
+![image](https://github.com/kittykatattack/learningPixi/blob/master/examples/images/screenshots/01.png?raw=true)
 
 哇，一个[黑块儿](http://rampantgames.com/blog/?p=7745)!
 
@@ -47,7 +47,7 @@ renderer = PIXI.autoDetectRenderer(
 {antialias: false, transparent: false, resolution: 1}
 ```
 
-`antialias`\(抗锯齿\)可以让文字的边缘和图形基元变得平滑（`WebGL`的抗锯齿功能并不是在所有平台都可用的，所以你需要先测试一下游戏的目标平台是否支持这项功能）。  
+`antialias`\(抗锯齿\)可以让文字的边缘和图形基元变得平滑（`WebGL`的抗锯齿功能并不是在所有平台都可用的，所以你需要先测试一下游戏的目标平台是否支持这项功能）。
 `transparent`可以设置`canvas`的背景是否透明。  
 `resolution`可以让设置不同分辨率和像素密度更轻松。关于设置`resolution`的细节其实略略超出了本手册的内容，如果你想了解更多详情，可以看看Mat Grove的这篇[文章](http://www.goodboydigital.com/pixi-js-v2-fastest-2d-webgl-renderer/)。通常来讲，把`resolution`设置为1，就可以满足大多数项目的需要了。
 
