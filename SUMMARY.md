@@ -10,3 +10,4 @@
     * [旋转](Getting Started with PixiJS/rotation.md)
     * [从瓦片集中的图片创建sprite](Getting Started with PixiJS/sprite-from-tileset.md)
     * [加载纹理地图](Getting Started with PixiJS/Loading-the-texture-atlas.md)
+    * [使用纹理地图](Getting Started with PixiJS/Using-a-texture-atlas.md)
