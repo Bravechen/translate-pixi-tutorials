@@ -2,13 +2,13 @@
 
 我们已经掌握了如何利用一张图片创建sprite的方法。不过，在游戏开发中，我们更多用到的是瓦片集（或者称为雪碧图`spritesheet`）。Pixi库中内置了几种方法可以帮助你轻松使用它。瓦片集是一张含有多个子图形的图片文件。这些子图形基本涵盖了我们的游戏中用到的图像。下面是一张瓦片集的例子，可以在其中找到游戏的角色和其他游戏图像资源。
 
-![image](https://github.com/kittykatattack/learningPixi/raw/master/examples/images/screenshots/09.png)
+![image](https://raw.githubusercontent.com/kittykatattack/learningPixi/master/examples/images/screenshots/09.png)
 
 上图的整个瓦片集图片尺寸是192x192。每个自图片都被放置在32x32的单元格中。像这样把游戏中的图形放置在瓦片集中，是一种对性能和内存使用都很好的手段。而Pixi也能很高效的使用它们。
 
 我们可以通过在瓦片集上定义一个矩形的区域以囊括我们需要的子图形。下面的例子中我们从瓦片集中提取一个火箭的子图片。
 
-![image](https://github.com/kittykatattack/learningPixi/raw/master/examples/images/screenshots/10.png)
+![image](https://raw.githubusercontent.com/kittykatattack/learningPixi/master/examples/images/screenshots/10.png)
 
 让我们看看代码应该怎么做。首先，跟之前类似，我们使用Pixi的`loader`来加载`tileset.png`图片。
 
