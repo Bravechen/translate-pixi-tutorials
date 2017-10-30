@@ -4,3 +4,4 @@
 
 基于[PixiJS手册](http://www.pixijs.com/tutorials)
 
+[GitBook](https://www.gitbook.com/book/bravechen/translate-pixi-tutorials/details)
