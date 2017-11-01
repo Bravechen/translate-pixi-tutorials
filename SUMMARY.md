@@ -13,3 +13,4 @@
     * [使用纹理地图](Getting Started with PixiJS/Using-a-texture-atlas.md)
     * [实现动画](Getting Started with PixiJS/Moving-Sprites.md)
     * [使用速度属性](Getting Started with PixiJS/Using-velocity-properties.md)
+    * [游戏状态](Getting Started with PixiJS/game-state.md)
