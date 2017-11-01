@@ -16,4 +16,4 @@
     * [游戏状态](Getting Started with PixiJS/game-state.md)
     * [键盘操控](Getting Started with PixiJS/Keyboard-Movement.md)
     * [sprite编组](Getting Started with PixiJS/Grouping-Sprites.md)
-    * [本地和全局坐标](Getting Started with PixiJS/Local-and-global-positions.md)
+        * [本地和全局坐标](Getting Started with PixiJS/Local-and-global-positions.md)
